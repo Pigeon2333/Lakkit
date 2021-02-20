@@ -1,4 +1,4 @@
-# Xakkit
+# Lakkit
 <p align="center">
   <img src="icon.png" height="120" width="120" />
 </p>
@@ -7,7 +7,7 @@
 </p>
 
 ### Introduce
-Xakkit is a server software for Minecraft: Bedrock Edition and Minecraft: Java Edition. Open source Minecraft Server written in dream
+Lakkit is a server software for Minecraft: Bedrock Edition and Minecraft: Java Edition. Open source Minecraft Server written in dream
 
 ### Feature
  - [x] No Bug
@@ -30,10 +30,10 @@ Xakkit is a server software for Minecraft: Bedrock Edition and Minecraft: Java E
 
 ### Installation
  ```
-$ git clone https://github.com/Xakkit/Xakkit.git
-$ cd Xakkit
+$ git clone https://github.com/Lakkit/Lakkit.git
+$ cd Lakkit
 $ echo Nothing!
 ```
 
 ### Sponsor
-> You want?
+> 河南拔智齿
